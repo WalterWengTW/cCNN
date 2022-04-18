@@ -1,0 +1,19 @@
+﻿  CNN_Practice.cpp
+C:\Users\walter\Desktop\Neural Network Practice\CNN_Practice\CNN_Practice\CNN_Practice.cpp(16,12): warning C4244:  '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+C:\Users\walter\Desktop\Neural Network Practice\CNN_Practice\CNN_Practice\CNN_Practice.cpp(45,33): warning C4305:  '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\walter\Desktop\Neural Network Practice\CNN_Practice\CNN_Practice\CNN_Practice.cpp(46,33): warning C4305:  '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\walter\Desktop\Neural Network Practice\CNN_Practice\CNN_Practice\CNN_Practice.cpp(47,33): warning C4305:  '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\walter\Desktop\Neural Network Practice\CNN_Practice\CNN_Practice\CNN_Practice.cpp(48,33): warning C4305:  '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\walter\Desktop\Neural Network Practice\CNN_Practice\CNN_Practice\CNN_Practice.cpp(124,40): warning C4305:  '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\walter\Desktop\Neural Network Practice\CNN_Practice\CNN_Practice\CNN_Practice.cpp(132,40): warning C4305:  '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\walter\Desktop\Neural Network Practice\CNN_Practice\CNN_Practice\CNN_Practice.cpp(190,34): warning C4305:  '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\walter\Desktop\Neural Network Practice\CNN_Practice\CNN_Practice\CNN_Practice.cpp(244,34): warning C4305:  '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\walter\Desktop\Neural Network Practice\CNN_Practice\CNN_Practice\CNN_Practice.cpp(279,12): warning C4244:  '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\walter\Desktop\Neural Network Practice\CNN_Practice\CNN_Practice\CNN_Practice.cpp(282,37): warning C4244:  '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\walter\Desktop\Neural Network Practice\CNN_Practice\CNN_Practice\CNN_Practice.cpp(264,16): warning C4101:  'header': 未參考的區域變數
+C:\Users\walter\Desktop\Neural Network Practice\CNN_Practice\CNN_Practice\CNN_Practice.cpp(265,16): warning C4101:  'data': 未參考的區域變數
+C:\Users\walter\Desktop\Neural Network Practice\CNN_Practice\CNN_Practice\CNN_Practice.cpp(333,45): warning C4244:  '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\walter\Desktop\Neural Network Practice\CNN_Practice\CNN_Practice\CNN_Practice.cpp(350,43): warning C4244:  '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\walter\Desktop\Neural Network Practice\CNN_Practice\CNN_Practice\CNN_Practice.cpp(369,44): warning C4244:  '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\walter\Desktop\Neural Network Practice\CNN_Practice\CNN_Practice\CNN_Practice.cpp(386,42): warning C4244:  '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  CNN_Practice.vcxproj -> C:\Users\walter\Desktop\Neural Network Practice\CNN_Practice\x64\Debug\CNN_Practice.exe

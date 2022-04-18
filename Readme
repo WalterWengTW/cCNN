@@ -1,0 +1,6 @@
+CNN Practice in C++
+No optimization
+MNIST http://yann.lecun.com/exdb/mnist/ download all idx3-ubyte file
+self define library:
+  Layers.h
+  Matrix.h
