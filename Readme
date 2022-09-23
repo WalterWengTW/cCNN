@@ -1,6 +1,8 @@
-CNN Practice in C++
-No optimization
-MNIST http://yann.lecun.com/exdb/mnist/ download all idx3-ubyte file
+# C++實作LeNet5手寫數字辨識
+資料集 : MNIST http://yann.lecun.com/exdb/mnist/ download all idx3-ubyte file
+以Layer為基本運算型態物件，建立Forward與Backword計算方法<\br>
+
+
 self define library:
   Layers.h
   Matrix.h
